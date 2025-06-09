@@ -923,7 +923,6 @@ MonoBehaviour:
   score: {fileID: 1814386799}
   GameOverScreen: {fileID: 1946040697}
   DingSFX: {fileID: 1254173395}
-  playbutton: {fileID: 0}
   StartScreen: {fileID: 1797488976}
 --- !u!4 &1254173394
 Transform:
